@@ -1,28 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="JeddahRadio.sa",Jeddah Radio (1080p)
+https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/playlist.m3u8
+#EXTINF:-1 tvg-id="KhalijiComedy.sa",Khaliji Comedy (1080p)
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:-1 tvg-id="RabehSaqer.sa",Rabeh Saqer (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+#EXTINF:-1 tvg-id="MPlusHD.sa",M+ HD (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVN.cl" group-title="Chile",TVN
-https://mdstrm.com/live-stream-playlist/5d8e29f0b0170a082a4fb4ef.m3u8
-
-#EXTINF:-1 tvg-id="Canal13.cl" group-title="Chile",Canal 13
-https://canal13.cl/live.m3u8
-
-#EXTINF:-1 tvg-id="Mega.cl" group-title="Chile",Mega
-https://livestream.mega.cl/megahd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Chilevision.cl" group-title="Chile",Chilevisión
-https://unlimited1-us.dps.live/chv/chv.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="CNNChile.cl" group-title="Chile",CNN Chile
-https://unlimited1-us.dps.live/cnn/cnn.smil/chunklist_b400000.m3u8
-
-#EXTINF:-1 tvg-id="DW.de" group-title="Noticias",DW Español
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="France24.fr" group-title="Noticias",France 24 Español
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-
-#EXTINF:-1 tvg-id="RTDoc.ru" group-title="Documentales",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telesur.ve" group-title="Noticias",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/HD/playlist.m3u8
